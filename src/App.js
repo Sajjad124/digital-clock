@@ -13,12 +13,12 @@ function App() {
 
   return (
     <div>
-    <div className="App">
-      <header className="App-header">
-        <h1>Digital Clock</h1>
-        <h1>{ctime}</h1>
-      </header>
-    </div>
+      <div className="App">
+        <header className="App-header">
+          <h1>Digital Clock</h1>
+          <h1>{ctime}</h1>
+        </header>
+      </div>
     </div>
   );
 }
